@@ -1,5 +1,11 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+# 合作商
+DOMAIN-SUFFIX,hengshuibank.com
+DOMAIN-SUFFIX,xtbank.com
+DOMAIN-SUFFIX,bankoftieling.com
+DOMAIN-SUFFIX,fuxinbank.com
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
